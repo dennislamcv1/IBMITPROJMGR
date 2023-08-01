@@ -1,6 +1,6 @@
 # ITProjMgr/ProjMgr/Skillup Edtech
 
-## IBM IT Project Manager Professional Certificate
+## 1. IBM IT Project Manager Professional Certificate
 
 Prepare for a career in the high-growth field of IT project management. In this program, you’ll develop the skills and tools to have a competitive edge in the job market as an entry-level IT project manager in less than 3 months. No prior knowledge or experience is required.
 
@@ -10,7 +10,7 @@ You’ll learn in-demand skills used by professional IT project managers includi
 
 Upon completing the full program, you’ll gain access to career support resources to help you in your job search and you’ll earn a Professional Certificate from IBM to showcase your proficiency to potential employers. 
 
-## IBM Project Manager Professional Certificate
+## 2. IBM Project Manager Professional Certificate
 
 Prepare for a career in the high-growth field of project management. In this program, you’ll develop the skills, knowledge, and portfolio to have a competitive edge in the job market as an entry-level project manager in as little as 3 months. No prior knowledge or experience required.  
 
@@ -22,7 +22,7 @@ By the end of this program, you’ll have a portfolio of projects to demonstrate
 
 In addition, this program is designed to help you prepare for attaining project management certifications such as the CAPM certification from PMI.
 
-## SkillUp EdTech Modern Project Management Specialization
+## 3. SkillUp EdTech Modern Project Management Specialization
 
 Embark on an exciting journey into the thriving realm of project management and prepare for a promising career ahead. In this program, you'll gain invaluable skills, knowledge, and a robust portfolio that will give you a competitive edge in the job market as an entry-level project manager. No prior experience or expertise required.
 
