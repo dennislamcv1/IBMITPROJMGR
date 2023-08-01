@@ -1,4 +1,5 @@
-# ITProjMgr/ProjMgr
+# ITProjMgr/ProjMgr/Skillup Edtech
+
 ## IBM IT Project Manager Professional Certificate
 
 Prepare for a career in the high-growth field of IT project management. In this program, you’ll develop the skills and tools to have a competitive edge in the job market as an entry-level IT project manager in less than 3 months. No prior knowledge or experience is required.
@@ -20,6 +21,18 @@ You’ll learn in-demand skills used by professional project managers including 
 By the end of this program, you’ll have a portfolio of projects to demonstrate your proficiency, including developing project timelines, roles and responsibility matrices, stakeholder management tools, and communications plans. You’ll also unlock exclusive access to career support resources and a Professional Certificate from IBM to help you in your job search.
 
 In addition, this program is designed to help you prepare for attaining project management certifications such as the CAPM certification from PMI.
+
+## SkillUp EdTech Modern Project Management Specialization
+
+Embark on an exciting journey into the thriving realm of project management and prepare for a promising career ahead. In this program, you'll gain invaluable skills, knowledge, and a robust portfolio that will give you a competitive edge in the job market as an entry-level project manager. No prior experience or expertise required.
+
+Working collaboratively across teams, project managers deftly manage risks, establish effective communication channels with stakeholders, and provide guidance to team members. In our rapidly evolving and dynamic world, the demand for skilled project managers who can navigate these complexities and ensure project success has never been greater.
+
+Throughout this program, you'll learn not only the methodology and language of project management, you'll master the essential processes and tools necessary to set up projects for success.
+
+By the program's conclusion, you'll possess a diverse portfolio of projects that showcases your proficiency. Your portfolio will include project timelines, roles and responsibility matrices, stakeholder management tools, and communication plans. 
+
+Furthermore, our program is designed to prepare you for the attainment of esteemed project management certifications, such as the prestigious CAPM certification from PMI. With our comprehensive curriculum and expert guidance, you'll be well-prepared to take that next important step in your career journey.
 
 ### Applied Learning Project
 
