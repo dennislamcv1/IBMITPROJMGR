@@ -1,6 +1,6 @@
-# ITProjMgr/ProjMgr/Skillup Edtech
+# ITProjMgr
 
-## 1. IBM IT Project Manager Professional Certificate
+## 1. IBM IT Project Manager Professional Certificate (11 course series)
 
 Prepare for a career in the high-growth field of IT project management. In this program, you’ll develop the skills and tools to have a competitive edge in the job market as an entry-level IT project manager in less than 3 months. No prior knowledge or experience is required.
 
